@@ -29,32 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.TestRunner.executor": "Run",
-    "JUnit.IteratorAdapterTest.executor": "Run",
-    "JUnit.ListAdapterTest.executor": "Run",
-    "JUnit.ListIteratorAdapterTest.executor": "Run",
-    "JUnit.SubListTest.executor": "Run",
-    "JUnit.SubListTest.testRetainAllWithEmptyCollection.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/deli/IdeaProjects/Appello1/src/my",
-    "last_opened_file_path": "C:/Users/deli/IdeaProjects/homework",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/deli/IdeaProjects/Appello1/boh/src/Main.kt",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.18390805",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.IteratorAdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ListAdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ListIteratorAdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SubListTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SubListTest.testRetainAllWithEmptyCollection.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/deli/IdeaProjects/Appello1/src/my&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deli/IdeaProjects/homework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/deli/IdeaProjects/Appello1/boh/src/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.18390805&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,6 +111,8 @@
       <workItem from="1731491658308" duration="84000" />
       <workItem from="1731492247864" duration="91000" />
       <workItem from="1731493398483" duration="3591000" />
+      <workItem from="1731935728304" duration="422000" />
+      <workItem from="1731954790739" duration="10000" />
     </task>
     <servers />
   </component>
